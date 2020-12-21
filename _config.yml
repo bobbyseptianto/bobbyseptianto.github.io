@@ -16,7 +16,7 @@ resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://bernardusbobby.github.io
+url: https://bobbyseptianto.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -41,7 +41,7 @@ instagram: bernardus_bobby
 linkedin: bobbyseptianto96
 youtube: channel/UCF2xQPgQIxBnDQRjOBIOzNA?view_as=subscriber
 # spotify: myspotify
-github: bernardusbobby
+github: bobbyseptianto
 # gitlab: mygitlab
 # lastfm: mylastfm
 stackoverflow: 14091138/bernardus-bobby
