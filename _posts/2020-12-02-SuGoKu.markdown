@@ -1,0 +1,9 @@
+---
+title: "My Sugoku App - A Sudoku game with React Native & Expo"
+layout: post
+date: 2020-12-02 16:54
+projects: true
+hidden: true # don't count this post in blog pagination
+category: project
+externalLink: https://expo.io/@bobbyseptianto/projects/my-sugoku-app
+---
