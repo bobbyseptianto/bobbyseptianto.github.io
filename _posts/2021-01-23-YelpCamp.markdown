@@ -1,0 +1,9 @@
+---
+title: "YelpCamp - A Campground Web App with MongoDB Express EJS"
+layout: post
+date: 2021-01-23 16:54
+projects: true
+hidden: true # don't count this post in blog pagination
+category: project
+externalLink: https://yelp-camp-bob.herokuapp.com/
+---
